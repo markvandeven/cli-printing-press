@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.10.0](https://github.com/mvanhorn/cli-printing-press/compare/v4.9.0...v4.10.0) (2026-05-18)
+
+
+### Features
+
+* **ci:** mirror supply-chain hardening from printing-press-library ([#1619](https://github.com/mvanhorn/cli-printing-press/issues/1619)) ([f671b7b](https://github.com/mvanhorn/cli-printing-press/commit/f671b7ba9a572a2540f10931b2d794eebc16cb53))
+
 ## [4.9.0](https://github.com/mvanhorn/cli-printing-press/compare/v4.8.0...v4.9.0) (2026-05-18)
 
 
